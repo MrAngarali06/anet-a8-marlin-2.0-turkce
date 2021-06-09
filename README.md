@@ -11,6 +11,8 @@ Eğer bir sıkıntı veya sorunuz olursa sosyal medya hesaplarımdan ulaşabilir
 İnstagram : angarali.jpeg & angara3d
 Discord : MЯ. ΛИGΛЯΛLI İs Never 々#4161
 
+Not: Dili değiştirmek isterseniz #define LCD_LANGUAGE Kısmını değiştirebilirsiniz.
+
 |-Gerekli Şeyler
 1.Yazıcıya Bağlantı Yapmak için USB Kablo
 2.Arduino IDE Programı
