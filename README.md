@@ -9,6 +9,7 @@ Sosyal medya hesaplarımdan beni takip ederseniz sevinirim :)
 Eğer bir sıkıntı veya sorunuz olursa sosyal medya hesaplarımdan ulaşabilirsiniz.
 
 İnstagram : angarali.jpeg & angara3d
+
 Discord : MЯ. ΛИGΛЯΛLI İs Never 々#4161
 
 Not: Dili değiştirmek isterseniz #define LCD_LANGUAGE Kısmını değiştirebilirsiniz.
@@ -17,7 +18,7 @@ Not: Dili değiştirmek isterseniz #define LCD_LANGUAGE Kısmını değiştirebi
 1.Yazıcıya Bağlantı Yapmak için USB Kablo
 2.Arduino IDE Programı
 
-//-Kurulum-\\
+//-Kurulum-\\\
  
 -1. Adım
 Aşağıda verdiğim Skynet3D'nin hardwarerı Arduino IDE'ye atmamız lazım bunu Belgeler/Arduino klasörüne zipdeki hardware dosyasını atarsanız olucaktır.
@@ -33,6 +34,6 @@ yazıcınıza yüklemeyi yapacaktır ve işlemlerimiz bitti yazıcınız Marlin 
 
 
 
-//-Linkler-\\
+//-Linkler-\\\
 
 Skynet3D Hardware : https://github.com/SkyNet3D/anet-board
